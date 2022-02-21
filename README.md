@@ -1,3 +1,3 @@
 # Dashboard
  
-Simple responsive react dashboard 
+React dashboard with css. Used recharts for charting. 
